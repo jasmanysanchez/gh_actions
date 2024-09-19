@@ -1,4 +1,4 @@
-"""Module testting app."""
+"""Module testting apps."""
 
 from flask import Flask
 
